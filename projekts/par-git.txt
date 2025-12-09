@@ -1,6 +1,0 @@
-o	Kas ir Git?
-o	Kāpēc versiju kontrole ir tik ļoti svarīga projektu izstrādē?
-
-1. Git ir programmatūra, kas ļauj veikt versiju kontroli programmēšanas projektiem, nodrošinot koka veida struktūru uz katra klienta datora, kur katrs elements ir izmaiņu "commits". Tas ļauj pārvaldīt aplikacijas versijas, un vairākiem cilvēkiem strādāt pie aplikācijas un efektīvi saskaņot izmaiņas koda bāzes vietās.
-
-2. Versiju kontrole ir vajadzīga lai izsekotu visām izmaiņām projektā laikā un starp programmētājiem. Tā nodrošina drošību kļūdu labošanai un izsekošanai, izmantojot branchus un commitus. Tā ļauj izstrādātājiem eksperimentēt, nebaidoties sabojāt aplikāciju.
